@@ -1,4 +1,4 @@
-# Project - Battleship MultiPlayer Desktop Game with AI
+# Battleship MultiPlayer Desktop Game with AI
 **SOEN-6441 Adv. Programming Practices - (Summer 2019)**
 
 This is a electronic variant of the classic game **Battleship** published by Milton Bradley(1967).
