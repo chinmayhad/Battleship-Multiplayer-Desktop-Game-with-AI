@@ -1,5 +1,5 @@
-# SOEN-6441 Adv. Programming Practices - (Summer 2019)
-**Project - Battleship MultiPlayer Desktop Game with AI**
+# Project - Battleship MultiPlayer Desktop Game with AI
+**SOEN-6441 Adv. Programming Practices - (Summer 2019)**
 
 This is a electronic variant of the classic game **Battleship** published by Milton Bradley(1967).
 The objective is to sink the opponent's fleet of five ships.
